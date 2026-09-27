@@ -1,3 +1,7 @@
+## 📂 Project Files
+
+📊 **[View the Complete Excel Analytics Workbook](https://drive.google.com/drive/folders/18Jzehwaq82Uu2qBV7JqdTRzDtUybA7YT?usp=drive_link)**
+> **Note:** The dataset is synthetic and was generated using Python for portfolio and learning purposes.
 # Tanishq-Style Jewelry Retail Analytics Suite
 
 ### End-to-End Excel Data Model & Executive Dashboard
